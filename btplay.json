@@ -17,5 +17,6 @@
       "x3d" : "image",
       "x3dv" : "image"
     },
-    "licence_required":false
+    "licence_required":false,
+    "using": ["solver_1"]
 }

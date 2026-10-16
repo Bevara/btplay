@@ -17,6 +17,10 @@
       "x3d" : "image",
       "x3dv" : "image"
     },
-    "licence_required":false,
-    "using": ["solver_1"]
+    "using": ["solver_1"],
+    "patents": {
+        "status": "expired",
+        "note": "MPEG-4 BIFS text forms, VRML, X3D",
+        "checked": "2026-10-16"
+    }
 }

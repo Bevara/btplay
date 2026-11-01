@@ -1,6 +1,6 @@
 {
     "name": "btplay",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "MPEG-4 BIFS (BT/XMT), VRML97 and X3D scene loader",
     "filters":["btplay"],
     "help": "This filter loads textual scene descriptions - MPEG-4 BIFS in BT or XMT syntax, VRML97 and X3D - into the compositor's scene graph.",
@@ -18,7 +18,7 @@
       "x3d" : "image",
       "x3dv" : "image"
     },
-    "using": ["solver_1"],
+    "using": ["mm_solver_1.0.1"],
     "patents": {
         "status": "expired",
         "note": "MPEG-4 BIFS text forms, VRML, X3D",

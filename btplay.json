@@ -18,7 +18,7 @@
       "x3d" : "image",
       "x3dv" : "image"
     },
-    "using": ["mm_solver_1.0.1"],
+    "using": ["mm_solver_1.0.1", "mm_solver_1.0.2"],
     "patents": {
         "status": "expired",
         "note": "MPEG-4 BIFS text forms, VRML, X3D",
